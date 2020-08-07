@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am a Biomedical Engineering Ph.D. student at the University of California, Davis. I work in the Levenson Lab focusing on applying deep learning for image enhancement of slide-free microscopy imaging applied to pathology.
+
+Reach me at:
+- Twitter: @iScienceLuvr
+- Email: tmabraham@ucdavis.edu
+
 <!--
 **tmabraham/tmabraham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
