@@ -2,8 +2,14 @@
 
 I am a Biomedical Engineering Ph.D. student at the University of California, Davis. I work in the Levenson Lab focusing on applying deep learning for image enhancement of slide-free microscopy imaging applied to pathology.
 
+Read my [recent paper](https://arxiv.org/abs/2008.08579)
+Watch my latest [talk](https://www.youtube.com/watch?v=gT8-wDPLOBg)
+
 Reach me at:
-- Twitter: @iScienceLuvr
+- Twitter: [@iScienceLuvr](https://twitter.com/iScienceLuvr)
+- Facebook: [realtanishqabraham](https://facebook.com/realtanishqabraham)
+- LinkedIn: [tanishq-abraham-prodigy](https://www.linkedin.com/in/tanishq-abraham-prodigy/)
+- Instagram: [biomedengineerat14](https://instagram.com/biomedengineerat14)
 - Email: tmabraham@ucdavis.edu
 
 <!--
