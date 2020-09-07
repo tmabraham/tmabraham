@@ -9,7 +9,7 @@ Watch my latest [talk](https://www.youtube.com/watch?v=gT8-wDPLOBg)
 Reach me at:
 - Twitter: [@iScienceLuvr](https://twitter.com/iScienceLuvr)
 - Facebook: [realtanishqabraham](https://facebook.com/realtanishqabraham)
-- LinkedIn: [tanishq-abraham-prodigy](https://www.linkedin.com/in/tanishq-abraham-prodigy/)
+- LinkedIn: [tanishq-abraham-iscienceluvr](https://www.linkedin.com/in/tanishq-abraham-iscienceluvr/)
 - Instagram: [biomedengineerat14](https://instagram.com/biomedengineerat14)
 - Email: tmabraham@ucdavis.edu
 
