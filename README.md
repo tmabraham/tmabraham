@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Biomedical Engineering Ph.D. student at the University of California, Davis. I work in the Levenson Lab focusing on applying deep learning for image enhancement of slide-free microscopy imaging applied to pathology. I also work part-time at Stability AI.
+I am a 19-year-old 5th-year Biomedical Engineering Ph.D. candidate at the University of California, Davis. I work in the Levenson Lab focusing on applying deep learning for image enhancement of slide-free microscopy imaging applied to pathology. I also work part-time at [Stability AI](https://stability.ai) and the CEO of [MedARC](https://medarc.ai).
 
 Find more information about me:
 - Twitter: [@iScienceLuvr](https://twitter.com/iScienceLuvr)
@@ -8,7 +8,7 @@ Find more information about me:
 - LinkedIn: [tanishq-abraham-iscienceluvr](https://www.linkedin.com/in/tanishq-abraham-iscienceluvr/)
 - Instagram: [biomedengineerat14](https://instagram.com/biomedengineerat14)
 - Email: tmabraham@ucdavis.edu
-- Website: https://tmabraham.github.io
+- Website: https://tanishq.ai
 - Google Scholar: [Tanishq Mathew Abraham](https://scholar.google.com/citations?user=hIyhkfQAAAAJ&hl=en)
 
 <!--
