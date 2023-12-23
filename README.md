@@ -2,7 +2,7 @@
 
 I am a 20-year-old recent PhD graduate and medical AI researcher. During my Ph.D., I  worked in the Levenson Lab focusing on applying deep learning for image enhancement of slide-free microscopy imaging applied to pathology. 
 
-I currently work part-time at [Stability AI](https://stability.ai) and am the CEO of [MedARC](https://medarc.ai).
+I currently work as a Research Director at [Stability AI](https://stability.ai) and am the CEO of [MedARC](https://medarc.ai).
 
 Find more information about me:
 - Twitter: [@iScienceLuvr](https://twitter.com/iScienceLuvr)
