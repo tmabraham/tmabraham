@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I am a 20-year-old recent PhD graduate and medical AI researcher. During my Ph.D., I  worked in the Levenson Lab focusing on applying deep learning for image enhancement of slide-free microscopy imaging applied to pathology. 
-
-I currently work as a Research Director at [Stability AI](https://stability.ai) and am the CEO of [MedARC](https://medarc.ai).
+I am a 21-year-old medical AI and generative AI researcher. I obtained my Ph.D. at 19 years old at UC Davis. I worked in the Levenson Lab focusing on applying deep learning for image enhancement of slide-free microscopy imaging applied to pathology. I previously worked as a Research Director at [Stability AI](https://stability.ai) and am the founder and former CEO of [MedARC](https://medarc.ai).
 
 Find more information about me:
 - Twitter: [@iScienceLuvr](https://twitter.com/iScienceLuvr)
